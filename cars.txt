@@ -6,3 +6,4 @@ Tesla
 Mercedes S500
 KIA Optima
 Lexus GX470
+Mazda 3
