@@ -8,3 +8,4 @@ KIA Optima
 Lexus GX470
 Mazda 3
 Honda Civic
+Subaru WRX STI
