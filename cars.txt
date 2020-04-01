@@ -9,4 +9,5 @@ Lexus GX470
 Mazda 3
 Honda Civic
 Subaru WRX STI
+Toyota Camry
 Range Rover Velar
