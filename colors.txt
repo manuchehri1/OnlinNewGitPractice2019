@@ -1,9 +1,6 @@
 black
 red
 pink
-<<<<<<< HEAD
 green
-=======
-blue 
+blue
 yellow
->>>>>>> 009de2219ae9519b484c6f1c24c04e129da5cf36
